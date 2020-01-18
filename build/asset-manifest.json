@@ -1,0 +1,22 @@
+{
+    "files": {
+      "main.css": "https://michaelrobil.github.io/employeereact/static/css/main.a582e99b.chunk.css",
+      "main.js": "https://michaelrobil.github.io/employeereact/static/js/main.1c33afa5.chunk.js",
+      "main.js.map": "https://michaelrobil.github.io/employeereact/static/js/main.1c33afa5.chunk.js.map",
+      "runtime-main.js": "https://michaelrobil.github.io/employeereact/static/js/runtime-main.f254175d.js",
+      "runtime-main.js.map": "https://michaelrobil.github.io/employeereact/static/js/runtime-main.f254175d.js.map",
+      "static/js/2.c4222c11.chunk.js": "https://michaelrobil.github.io/employeereact/static/js/2.c4222c11.chunk.js",
+      "static/js/2.c4222c11.chunk.js.map": "https://michaelrobil.github.io/employeereact/static/js/2.c4222c11.chunk.js.map",
+      "index.html": "https://michaelrobil.github.io/employeereact/index.html",
+      "precache-manifest.bf25040b61293b1c1352a4376dd18f8e.js": "https://michaelrobil.github.io/employeereact/precache-manifest.bf25040b61293b1c1352a4376dd18f8e.js",
+      "service-worker.js": "https://michaelrobil.github.io/employeereact/service-worker.js",
+      "static/css/main.a582e99b.chunk.css.map": "https://michaelrobil.github.io/employeereact/static/css/main.a582e99b.chunk.css.map",
+      "static/js/2.c4222c11.chunk.js.LICENSE": "https://michaelrobil.github.io/employeereact/static/js/2.c4222c11.chunk.js.LICENSE"
+    },
+    "entrypoints": [
+      "static/js/runtime-main.f254175d.js",
+      "static/js/2.c4222c11.chunk.js",
+      "static/css/main.a582e99b.chunk.css",
+      "static/js/main.1c33afa5.chunk.js"
+    ]
+  }
